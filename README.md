@@ -1,7 +1,7 @@
 # House Prices Prediction - Kaggle Competition
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue.svg)
-![R](https://img.shields.io/badge/R-4.3%2B-blue)
+![R](https://img.shields.io/badge/R-4.6%2B-blue)
 ![Markdown](https://img.shields.io/badge/Markdown-Report-green)
 
 **Final Model Performance:** Adjusted R² = **90.16%**
