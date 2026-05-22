@@ -14,7 +14,7 @@ I built a well-specified linear regression model with extensive feature engineer
 
 ### 📊 View the Full Report
 
-**👉 [View Full HTML Report](HousePrice_Analysis.html)**
+**👉 [View Full HTML Report](https://github.com/niklaspfox/HousePricePrediction/blob/main/PredictingHousePrices.html)**
 
 **📥 [Download PDF Report](https://github.com/niklaspfox/HousePricePrediction/blob/main/PredictingHousePrices.pdf)**
 
@@ -22,11 +22,11 @@ I built a well-specified linear regression model with extensive feature engineer
 
 ### Repository Contents
 
-- `HousePrice_Analysis.Rmd` — Main R Markdown file
-- `HousePrice_Analysis.html` — Fully rendered interactive report
-- `HousePrice_Analysis.pdf` — PDF version of the report
-- `data/` — Training and test datasets
-- `figures/` — All diagnostic plots and visualizations
+- `PredictingHousePrices.Rmd` — Main R Markdown file
+- `PredictingHousePrices.html` — Fully rendered interactive report
+- `PredictingHousePrices.pdf` — PDF version of the report
+- `train` — Training dataset
+- `test` — Test dataset
 
 ---
 
