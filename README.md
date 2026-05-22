@@ -16,7 +16,7 @@ I built a well-specified linear regression model with extensive feature engineer
 
 **👉 [View Full HTML Report](HousePrice_Analysis.html)**
 
-**📥 [Download PDF Report](HousePrice_Analysis.pdf)**
+**📥 [Download PDF Report]([HousePrice_Analysis.pdf](https://github.com/niklaspfox/HousePricePrediction/blob/main/PredictingHousePrices.pdf))**
 
 ---
 
